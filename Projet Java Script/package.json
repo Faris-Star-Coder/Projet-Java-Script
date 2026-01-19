@@ -1,0 +1,13 @@
+{
+  "name": "TODO",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "babel src/js -d js"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "babel-preset-minify": "^0.5.0"
+  }
+}
